@@ -4,26 +4,23 @@
 using namespace std;
 
 int cpp(int argc, char* argv[]) {
-
-	//const int liczba = 30;
 	
+	//zadanie 1
 
 	/*int osiem = 8;
 	double pi = 3.14;
-	char zet = 'Z';*/
+	char zet = 'Z';
+
+	cout << "Wynik: " << osiem << '\t' << pi << "\t" << zet;*/
 
 
-	//string miasto_1 = "Bygoszcz";
-	//char miasto_2[10] = "";
+	//zadanie 3 i 4
+	
+	/*const int liczba = 30;
 
+	int fibonnaci[liczba];
 
-	//miasto_1 = "Darmstadt";
-
-	//int fibonnaci[liczba];
-
-	/*cout << "Wynik: " << osiem << '\t' << pi << "\t" << zet;*/
-
-	/*for (int i = 0; i < liczba; i++) {
+	for (int i = 0; i < liczba; i++) {
 		if (i > 2) {
 			
 			fibonnaci[i] = fibonnaci[i-1] + fibonnaci[i - 2];
@@ -34,16 +31,18 @@ int cpp(int argc, char* argv[]) {
 		else {
 			fibonnaci[i] = 0;
 		}
-	}*/
+	}
 
-	//cout << endl <<  "Fibonnaci: ";
+	cout << endl <<  "Fibonnaci: ";
 
-	/*for (int i = 0; i < liczba; i++) {
+	for (int i = 0; i < liczba; i++) {
 		cout << fibonnaci[i] << '\t';
 	}*/
 
+	// zadanie 5
 
-	int siedem;
+
+	/*int siedem;
 	double e;
 	char pe;
 	string liverpool;
@@ -57,7 +56,7 @@ int cpp(int argc, char* argv[]) {
 		cin >> tab[i];
 
 	for (int i = 0; i < 3; i++)
-		cout << tab[i]<< '\t';
+		cout << tab[i]<< '\t';*/
 
 	return 0;
 }
