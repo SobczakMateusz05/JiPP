@@ -14,7 +14,7 @@ int main() {
 	Proc_string(str1, str2, sizeof(str1));
 	Proc_string(str2, str1, sizeof(str2));
 
-	Print_string( str1, str2);
+	Print_string(str1, str2);
 }
 
 void Inp_string(char* str, size_t SilentBytes) {
