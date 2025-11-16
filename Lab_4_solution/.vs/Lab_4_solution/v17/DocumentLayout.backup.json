@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\Lab_4_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B199D90-0E73-42D0-9116-BEB370C7FB55}|Lab_4_solution\\Lab_4_solution.vcxproj|C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\Lab_4_solution\\Lab_4_solution\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B199D90-0E73-42D0-9116-BEB370C7FB55}|Lab_4_solution\\Lab_4_solution.vcxproj|solutionrelative:Lab_4_solution\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\Lab_4_solution\\Lab_4_solution\\main.cpp",
+              "RelativeDocumentMoniker": "Lab_4_solution\\main.cpp",
+              "ToolTip": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\Lab_4_solution\\Lab_4_solution\\main.cpp",
+              "RelativeToolTip": "Lab_4_solution\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T07:30:26.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
