@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mateusz.sobczak22\Desktop\JiPP\Lab_4_solution2\Lab_4_solution2\main.cpp(9,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab_4_solution2.vcxproj -> C:\Users\mateusz.sobczak22\Desktop\JiPP\Lab_4_solution2\x64\Debug\Lab_4_solution2.exe
