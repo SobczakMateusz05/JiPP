@@ -3,8 +3,7 @@
 
 #include "stdafx.h"
 #include "stdio.h"
-#include "stdlib.h"
-#include "string.h"
+#include "stdlib.h"#include "string.h"
 
 char menu(char *str, size_t SilentBytes);
 void inp_string(char *str, size_t SilentBytes);
