@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5C706-3841-40B0-945D-BDBA3D78F2CB}|Lab_2\\Lab_2.vcxproj|C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\node_coord.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9C5C706-3841-40B0-945D-BDBA3D78F2CB}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\node_coord.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5C706-3841-40B0-945D-BDBA3D78F2CB}|Lab_2\\Lab_2.vcxproj|C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\node_coord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9C5C706-3841-40B0-945D-BDBA3D78F2CB}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\node_coord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C5C706-3841-40B0-945D-BDBA3D78F2CB}|Lab_2\\Lab_2.vcxproj|C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\Lab_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9C5C706-3841-40B0-945D-BDBA3D78F2CB}|Lab_2\\Lab_2.vcxproj|solutionrelative:Lab_2\\Lab_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "node_coord.cpp",
+              "DocumentMoniker": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\node_coord.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\node_coord.cpp",
+              "ToolTip": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\node_coord.cpp",
+              "RelativeToolTip": "Lab_2\\node_coord.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T11:22:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "node_coord.h",
+              "DocumentMoniker": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\node_coord.h",
+              "RelativeDocumentMoniker": "Lab_2\\node_coord.h",
+              "ToolTip": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\node_coord.h",
+              "RelativeToolTip": "Lab_2\\node_coord.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-08T11:22:02.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab_2.cpp",
+              "DocumentMoniker": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\Lab_2.cpp",
+              "RelativeDocumentMoniker": "Lab_2\\Lab_2.cpp",
+              "ToolTip": "C:\\Users\\mateusz.sobczak22\\Desktop\\JiPP\\sem2\\Lab_2\\Lab_2\\Lab_2.cpp",
+              "RelativeToolTip": "Lab_2\\Lab_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T11:21:24.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
